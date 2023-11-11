@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\BBC.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\BBC.dir/objects.a @CMakeFiles\BBC.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\BBC.dir/objects.a -Wl,--no-whole-archive -o BBC.exe -Wl,--out-implib,libBBC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\BBC.dir\linkLibs.rsp

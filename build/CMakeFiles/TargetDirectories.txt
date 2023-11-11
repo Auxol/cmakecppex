@@ -1,0 +1,3 @@
+C:/Users/auxol/Documents/code/BBC/build/CMakeFiles/BBC.dir
+C:/Users/auxol/Documents/code/BBC/build/CMakeFiles/edit_cache.dir
+C:/Users/auxol/Documents/code/BBC/build/CMakeFiles/rebuild_cache.dir

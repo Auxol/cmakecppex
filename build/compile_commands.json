@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/Users/auxol/Documents/code/BBC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/BBC.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\BBC.dir\\src\\nerdShit\\physics.cpp.obj -c C:\\Users\\auxol\\Documents\\code\\BBC\\src\\nerdShit\\physics.cpp",
+  "file": "C:/Users/auxol/Documents/code/BBC/src/nerdShit/physics.cpp",
+  "output": "CMakeFiles/BBC.dir/src/nerdShit/physics.cpp.obj"
+},
+{
+  "directory": "C:/Users/auxol/Documents/code/BBC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/BBC.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\BBC.dir\\src\\blackBalls\\ball.cpp.obj -c C:\\Users\\auxol\\Documents\\code\\BBC\\src\\blackBalls\\ball.cpp",
+  "file": "C:/Users/auxol/Documents/code/BBC/src/blackBalls/ball.cpp",
+  "output": "CMakeFiles/BBC.dir/src/blackBalls/ball.cpp.obj"
+},
+{
+  "directory": "C:/Users/auxol/Documents/code/BBC/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/BBC.dir/includes_CXX.rsp -O3 -DNDEBUG -o CMakeFiles\\BBC.dir\\src\\main.cpp.obj -c C:\\Users\\auxol\\Documents\\code\\BBC\\src\\main.cpp",
+  "file": "C:/Users/auxol/Documents/code/BBC/src/main.cpp",
+  "output": "CMakeFiles/BBC.dir/src/main.cpp.obj"
+}
+]
